@@ -4,3 +4,5 @@ Section: A
 Email: faizankaleem6@gmail.com
 University: university of central punjab
 Teacher name: M.Ali Makhdoom
+Semester: 5th
+CGPA: 3.25
