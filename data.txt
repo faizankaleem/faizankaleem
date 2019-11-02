@@ -4,3 +4,13 @@ reg# l1f17bscs0227
 section:A
 
 please do it
+done 
+faiza kaleem khan 
+using namespace std
+int main ()
+{
+   char *ptr=new char[100];
+   cout <<"enter the your name  : ";
+   cin >>name;
+   cout <<"your name is : "<<name>>endl;
+}
