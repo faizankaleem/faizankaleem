@@ -1,1 +1,6 @@
-ECHO is on.
+Name:Faizan Kaleem
+section : A
+Semester : 5th
+Institute: university of central punjab
+Cgpa : 3.25
+ 
